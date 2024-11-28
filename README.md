@@ -3,20 +3,20 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark)
 
-### tutorial
+### tutorial--
 A project where I learned through some tutorials somewhere.
 
 ---
 
-### exercitium
+### exercitium--
 A project purely to deepen the skill and knowledge.
 
 ---
 
-### fun
+### fun--
 A project that just keeps me alive through the coding world.
 
 ---
 
-### project
+### project--
 Very serious work here.
