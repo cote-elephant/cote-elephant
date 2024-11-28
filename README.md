@@ -20,3 +20,13 @@ A project that just keeps me alive through the coding world.
 
 ### project--
 Very serious work here.
+
+---
+
+### template--
+some template to be re-used
+
+---
+
+### notes--
+some words about something
