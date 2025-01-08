@@ -12,9 +12,9 @@ const coteElephant = {
 ### Frontend Technologies
 ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=for-the-badge&logoWidth=20&logoHeight=20&width=50)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=for-the-badge&logoWidth=20&logoHeight=20)
-![SCSS](https://img.shields.io/badge/-SCSS-cc6699?logo=sass&logoColor=white&style=for-the-badge&logoWidth=20&logoHeight=20)
+![SASS](https://img.shields.io/badge/-SASS-#CC6699?logo=sass&logoColor=white&style=for-the-badge&logoWidth=20&logoHeight=20)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black&style=for-the-badge&logoWidth=20&logoHeight=20)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge&logoWidth=20&logoHeight=20)
+![React](https://img.shields.io/badge/-React-#61DAFB?logo=react&logoColor=black&style=for-the-badge&logoWidth=20&logoHeight=20)
 
 ### Backend Technologies
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge&logoWidth=20&logoHeight=20)
@@ -31,9 +31,8 @@ const coteElephant = {
 
 ### Resources
 ![MDN](https://img.shields.io/badge/-MDN-white?logo=mozilla&style=for-the-badge&logoColor=black&logoWidth=20&logoHeight=20)
-![Dev](https://img.shields.io/badge/-Dev-%black?logo=dev.to&style=for-the-badge&logoColor=white&logoWidth=20&logoHeight=20)
 ![Medium](https://img.shields.io/badge/-Medium-black?logo=medium&style=for-the-badge&logoColor=white&logoWidth=20&logoHeight=20)
-![W3C](https://img.shields.io/badge/-W3C-blue?style=for-the-badge&logo=w3schools&logoColor=white&logoWidth=20&logoHeight=20)
+![W3C](https://img.shields.io/badge/-W3C-#04AA6D?style=for-the-badge&logo=w3schools&logoColor=white&logoWidth=20&logoHeight=20)
 
 ---
 
