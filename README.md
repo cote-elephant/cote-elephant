@@ -1,11 +1,11 @@
-# Hello, fellow ````html <developers/>````!
+# Hello, fellow ````<developers/>````!
 
 #### WhoAmI.js
 ````javascript
 const coteElephant = {
   name: "Fabio",
   age: "27 and continuing",
-  
+  contact: "https://www.linkedin.com/in/fabio-resnik-68430032a/"
 }
 ````
 ---
