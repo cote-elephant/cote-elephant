@@ -1,5 +1,12 @@
-# Welcome to my ![Github Logo](https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif)
+# Hello, fellow <developers/>!
 
+## WhoAmI.js
+````javascript
+const coteElephant = {
+  name: "Fabio",
+  age: "27 and continuing"
+}
+````
 
 ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)
