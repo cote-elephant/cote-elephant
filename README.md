@@ -22,37 +22,24 @@
 
 ---
 
-![Tutorial](https://img.shields.io/badge/-Tutorial-blue?logo=book&logoColor=white)
-
-
-A project where I learned followed some tutorials somewhere.
+![Tutorial](https://img.shields.io/badge/-Tutorial-blue?logo=book&logoColor=white)--A project where I learned followed some tutorials somewhere.
 
 ---
 
-![Exercitium](https://img.shields.io/badge/-Exercitium-green?logo=exercise&logoColor=white)
-
-purely to deepen the skill and knowledge.
+![Exercitium](https://img.shields.io/badge/-Exercitium-green?logo=exercise&logoColor=white)--purely to deepen the skill and knowledge.
 
 ---
 
-![Fun](https://img.shields.io/badge/-Fun-orange?logo=smile&logoColor=white)
-
-just keeps me alive in the coding world.
+![Fun](https://img.shields.io/badge/-Fun-orange?logo=smile&logoColor=white)--just keeps me alive in the coding world.
 
 ---
 
-![Project](https://img.shields.io/badge/-Project-purple?logo=hammer&logoColor=white)
-
-Very serious work here.
+![Project](https://img.shields.io/badge/-Project-purple?logo=hammer&logoColor=white)--Very serious work here.
 
 ---
-![Template](https://img.shields.io/badge/-Template-gray?logo=template&logoColor=white)
-
-DRY.
+![Template](https://img.shields.io/badge/-Template-gray?logo=template&logoColor=white)--DRY.
 
 ---
 
-![Notes](https://img.shields.io/badge/-Notes-yellow?logo=note&logoColor=black)
-
-some words about something.
+![Notes](https://img.shields.io/badge/-Notes-yellow?logo=note&logoColor=black)--some words about something.
 
