@@ -2,7 +2,8 @@
 
 ## languages and tools
 
-![tutorial_badge](https://img.shields.io/badge/tutorial-blue)
+![tutorial_badge](https://img.shields.io/badge/tut-orial-blue)
+
 A project where I learned followed some tutorials somewhere.
 
 ---
