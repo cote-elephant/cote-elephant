@@ -1,13 +1,21 @@
-# Hello, fellow ````html<developers/>````!
+# Hello, fellow ````html <developers/>````!
 
 #### WhoAmI.js
 ````javascript
 const coteElephant = {
   name: "Fabio",
-  age: "27 and continuing"
+  age: "27 and continuing",
+  
 }
 ````
 ---
+### Frontend Technologies
+![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-cc6699?logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow&color=black?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+
 ### Backend Technologies
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
