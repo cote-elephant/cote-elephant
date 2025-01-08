@@ -32,11 +32,11 @@ const coteElephant = {
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge&logoWidth=20&logoHeight=20)
 
 ### Resources
-![MDN](https://img.shields.io/badge/-MDN-%23F7DF1E?logo=mozilla&logoColor=black&logoWidth=20&logoHeight=20)
-![Dev](https://img.shields.io/badge/-Dev-%23000000?logo=dev.to&logoColor=white&logoWidth=20&logoHeight=20)
-![Medium](https://img.shields.io/badge/-Medium-00AB6C?logo=medium&logoColor=white&logoWidth=20&logoHeight=20)
-![CCC](https://img.shields.io/badge/-CCC-red?logo=dev.to&logoColor=white&logoWidth=20&logoHeight=20)
-![W3C](https://img.shields.io/badge/-W3C-blue?logo=w3c&logoColor=white&logoWidth=20&logoHeight=20)
+![MDN](https://img.shields.io/badge/-MDN-%23F7DF1E?logo=mozilla&style=for-the-badge&logoColor=black&logoWidth=20&logoHeight=20)
+![Dev](https://img.shields.io/badge/-Dev-%23000000?logo=dev.to&style=for-the-badge&logoColor=white&logoWidth=20&logoHeight=20)
+![Medium](https://img.shields.io/badge/-Medium-00AB6C?logo=medium&style=for-the-badge&logoColor=white&logoWidth=20&logoHeight=20)
+![CCC](https://img.shields.io/badge/-CCC-red?logo=dev.to&style=for-the-badge&logoColor=white&logoWidth=20&logoHeight=20)
+![W3C](https://img.shields.io/badge/-W3C-blue?style=for-the-badge&logo=w3c&logoColor=white&logoWidth=20&logoHeight=20)
 
 ---
 
