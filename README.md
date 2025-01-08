@@ -22,16 +22,16 @@ const coteElephant = {
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&logoWidth=20&logoHeight=20)
 
 ### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=black&style=for-the-badge&logoWidth=20&logoHeight=20)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge&logoWidth=20&logoHeight=20)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=black&color=white&style=for-the-badge&logoWidth=20&logoHeight=20)
-![VS Code](https://img.shields.io/badge/-VS%20Code-2F80ED?logo=vscodium&logoColor=black&style=for-the-badge&logoWidth=20&logoHeight=20)
-![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-6A4C9C?logo=thunderstore&logoColor=black&style=for-the-badge&logoWidth=20&logoHeight=20)
+![VS Code](https://img.shields.io/badge/-VS%20Code-2F80ED?logo=vscodium&logoColor=white&style=for-the-badge&logoWidth=20&logoHeight=20)
+![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-6A4C9C?logo=thunderstore&logoColor=white&style=for-the-badge&logoWidth=20&logoHeight=20)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge&logoWidth=20&logoHeight=20)
 
 ### Resources
 ![MDN](https://img.shields.io/badge/-MDN-white?logo=mozilla&style=for-the-badge&logoColor=black&logoWidth=20&logoHeight=20)
 ![Medium](https://img.shields.io/badge/-Medium-black?logo=medium&style=for-the-badge&logoColor=white&logoWidth=20&logoHeight=20)
-![W3C](https://img.shields.io/badge/-W3C-#04AA6D?style=for-the-badge&logo=w3schools&logoColor=white&logoWidth=20&logoHeight=20)
+![W3C](https://img.shields.io/badge/-W3C-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white&logoWidth=20&logoHeight=20)
 
 ---
 
