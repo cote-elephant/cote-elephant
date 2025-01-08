@@ -13,7 +13,7 @@ const coteElephant = {
 ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=for-the-badge&logoWidth=20&logoHeight=20&width=50)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=for-the-badge&logoWidth=20&logoHeight=20)
 ![SCSS](https://img.shields.io/badge/-SCSS-cc6699?logo=sass&logoColor=white&style=for-the-badge&logoWidth=20&logoHeight=20)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=20&logoHeight=20)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black&style=for-the-badge&logoWidth=20&logoHeight=20)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge&logoWidth=20&logoHeight=20)
 
 ### Backend Technologies
@@ -26,15 +26,14 @@ const coteElephant = {
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=black&color=white&style=for-the-badge&logoWidth=20&logoHeight=20)
 ![Terminal](https://img.shields.io/badge/-Terminal-black?logo=windows-terminal&logoColor=white&style=for-the-badge&logoWidth=20&logoHeight=20)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=black&style=for-the-badge&logoWidth=20&logoHeight=20)
-![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-FFCC00?logo=bolt&logoColor=black&style=for-the-badge&logoWidth=20&logoHeight=20)
+![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-FFCC00?logo=thunderstore&logoColor=black&style=for-the-badge&logoWidth=20&logoHeight=20)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge&logoWidth=20&logoHeight=20)
 
 ### Resources
-![MDN](https://img.shields.io/badge/-MDN-%23F7DF1E?logo=mozilla&style=for-the-badge&logoColor=black&logoWidth=20&logoHeight=20)
-![Dev](https://img.shields.io/badge/-Dev-%23000000?logo=dev.to&style=for-the-badge&logoColor=white&logoWidth=20&logoHeight=20)
-![Medium](https://img.shields.io/badge/-Medium-00AB6C?logo=medium&style=for-the-badge&logoColor=white&logoWidth=20&logoHeight=20)
-![CCC](https://img.shields.io/badge/-CCC-red?logo=dev.to&style=for-the-badge&logoColor=white&logoWidth=20&logoHeight=20)
-![W3C](https://img.shields.io/badge/-W3C-blue?style=for-the-badge&logo=w3c&logoColor=white&logoWidth=20&logoHeight=20)
+![MDN](https://img.shields.io/badge/-MDN-white?logo=mozilla&style=for-the-badge&logoColor=black&logoWidth=20&logoHeight=20)
+![Dev](https://img.shields.io/badge/-Dev-%black?logo=dev.to&style=for-the-badge&logoColor=white&logoWidth=20&logoHeight=20)
+![Medium](https://img.shields.io/badge/-Medium-black?logo=medium&style=for-the-badge&logoColor=white&logoWidth=20&logoHeight=20)
+![W3C](https://img.shields.io/badge/-W3C-blue?style=for-the-badge&logo=w3schools&logoColor=white&logoWidth=20&logoHeight=20)
 
 ---
 
