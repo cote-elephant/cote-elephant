@@ -10,7 +10,14 @@ const coteElephant = {
 ````
 ---
 ### Frontend Technologies
-![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=black&color=black)
+![HTML](https://img.shields.io/badge/-HTML)
+![HTML](https://img.shields.io/badge/-HTML-orange)
+![HTML](https://img.shields.io/badge/-HTML-orange?logo=html&logoColor=orange)
+![HTML](https://img.shields.io/badge/-HTML-orange?logo=html&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-orange?logo=html&logoColor=black&style=flat)
+![HTML](https://img.shields.io/badge/-HTML-orange?logo=html&logoColor=black&style=for-the-badge&logoWidth=50&ogoHeight=20)
+
+![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=orange&color=black)
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-cc6699?logo=sass&logoColor=black&color=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black&color=black)
