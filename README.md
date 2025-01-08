@@ -1,12 +1,13 @@
-# Hello, fellow <developers/>!
+# Hello, fellow ````html<developers/>````!
 
-## WhoAmI.js
+#### WhoAmI.js
 ````javascript
 const coteElephant = {
   name: "Fabio",
   age: "27 and continuing"
 }
 ````
+---
 
 ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)
@@ -26,22 +27,22 @@ const coteElephant = {
 
 ---
 
-![Tutorial](https://img.shields.io/badge/-Tutorial-blue?logo=book&logoColor=white)--where I learned followed some tutorials somewhere.
+![Tutorial](https://img.shields.io/badge/-Tutorial-white?logo=book&logoColor=black)--where I learned followed some tutorials somewhere.
 
 ---
 
-![Exercitium](https://img.shields.io/badge/-Exercitium-green?logo=exercise&logoColor=white)--purely to deepen the skill and knowledge.
+![Exercitium](https://img.shields.io/badge/-Exercitium-green?logo=exercise&logoColor=black)--purely to deepen the skill and knowledge.
 
 ---
 
-![Fun](https://img.shields.io/badge/-Fun-orange?logo=smile&logoColor=white)--just keeps me alive in the coding world.
+![Fun](https://img.shields.io/badge/-Fun-orange?logo=smile&logoColor=black)--just keeps me alive in the coding world.
 
 ---
 
-![Project](https://img.shields.io/badge/-Project-purple?logo=hammer&logoColor=white)--Very serious work here.
+![Project](https://img.shields.io/badge/-Project-purple?logo=hammer&logoColor=black)--Very serious work here.
 
 ---
-![Template](https://img.shields.io/badge/-Template-gray?logo=template&logoColor=white)--DRY.
+![Template](https://img.shields.io/badge/-Template-gray?logo=template&logoColor=black)--DRY.
 
 ---
 
