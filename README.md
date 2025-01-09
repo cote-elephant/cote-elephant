@@ -29,11 +29,6 @@ const coteElephant = {
 ![GitHub](https://img.shields.io/badge/GitHub-12%20March%202024-181717?style=for-the-badge&logo=github&logoColor=white&color=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-12%20March%202024-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-12%20March%202024-FCC624?style=for-the-badge&logo=linux&logoColor=white)
-
-### Resources
-![MDN](https://img.shields.io/badge/MDN-12%20March%202024-white?style=for-the-badge&logo=mozilla&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-12%20March%202024-black?style=for-the-badge&logo=medium&logoColor=white)
-![W3C](https://img.shields.io/badge/W3C-12%20March%202024-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white)
 ---
 
 ![Tutorial](https://img.shields.io/badge/-Tutorial-white?logo=book&logoColor=black)--where I learned followed some tutorials somewhere.
