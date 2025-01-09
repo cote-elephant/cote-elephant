@@ -10,31 +10,28 @@ const coteElephant = {
 ````
 ---
 ### Frontend Technologies
-![date](https://img.shields.io/badge/HTML5-March%2011%202024-E34F26?&style=for-the-badge&logo=html5&logoColor=white&logoSize=250&width=50)
-
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white&logoSize=250&width=50)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&logoWidth=20&logoHeight=20)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=for-the-badge&logoWidth=20&logoHeight=20)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&logoWidth=20&logoHeight=20)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge&logoWidth=20&logoHeight=20)
+![HTML5](https://img.shields.io/badge/HTML5-26%20March%202024-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-26%20March%202024-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-29%20August%202024-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-12%20June%202024-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-29%20August%202024-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### Backend Technologies
-![Node.js](https://img.shields.io/badge/-Node.js-5FA04E?logo=node.js&logoColor=white&style=for-the-badge&logoWidth=20&logoHeight=20)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge&logoWidth=20&logoHeight=20)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&logoWidth=20&logoHeight=20)
+![Node.js](https://img.shields.io/badge/Node.js-05%20November%202024-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-05%20November%202024-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-05%20November%202024-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Thunder Client](https://img.shields.io/badge/Thunder%20Client-05%20November%202024-6A4C9C?style=for-the-badge&logo=thunderstore&logoColor=white)
 
 ### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge&logoWidth=20&logoHeight=20)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=black&color=white&style=for-the-badge&logoWidth=20&logoHeight=20)
-![VS Code](https://img.shields.io/badge/-VS%20Code-2F80ED?logo=vscodium&logoColor=white&style=for-the-badge&logoWidth=20&logoHeight=20)
-![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-6A4C9C?logo=thunderstore&logoColor=white&style=for-the-badge&logoWidth=20&logoHeight=20)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge&logoWidth=20&logoHeight=20)
+![Git](https://img.shields.io/badge/Git-12%20March%202024-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-12%20March%202024-181717?style=for-the-badge&logo=github&logoColor=black&color=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-12%20March%202024-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-12%20March%202024-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Resources
-![MDN](https://img.shields.io/badge/-MDN-white?logo=mozilla&style=for-the-badge&logoColor=black&logoWidth=20&logoHeight=20)
-![Medium](https://img.shields.io/badge/-Medium-black?logo=medium&style=for-the-badge&logoColor=white&logoWidth=20&logoHeight=20)
-![W3C](https://img.shields.io/badge/-W3C-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white&logoWidth=20&logoHeight=20)
+![MDN](https://img.shields.io/badge/MDN-12%20March%202024-white?style=for-the-badge&logo=mozilla&logoColor=black)
+![Medium](https://img.shields.io/badge/Medium-12%20March%202024-black?style=for-the-badge&logo=medium&logoColor=white)
+![W3C](https://img.shields.io/badge/W3C-12%20March%202024-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white)
 
 ---
 
