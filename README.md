@@ -5,7 +5,8 @@
 const coteElephant = {
   name: "Fabio",
   age: "27 and continuing",
-  contact: "https://www.linkedin.com/in/fabio-resnik-68430032a/"
+  contact: "https://www.linkedin.com/in/fabio-resnik-68430032a/",
+  onto: ["PHP", "MySQL"]
 }
 ````
 ---
@@ -21,6 +22,7 @@ const coteElephant = {
 ![Express.js](https://img.shields.io/badge/Express.js-05%20November%202024-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-05%20November%202024-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/Thunder%20Client-05%20November%202024-6A4C9C?style=for-the-badge&logo=thunderstore&logoColor=white)
+![PHP](https://img.shields.io/badge/Thunder%20Client-05%January%202025-6A4C9C?style=for-the-badge&logo=php&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-12%20March%202024-F05032?style=for-the-badge&logo=git&logoColor=white)
