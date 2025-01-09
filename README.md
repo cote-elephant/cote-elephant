@@ -13,8 +13,8 @@ const coteElephant = {
 ![HTML5](https://img.shields.io/badge/HTML5-26%20March%202024-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-26%20March%202024-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-29%20August%202024-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-12%20June%202024-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-29%20August%202024-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-12%20June%202024-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-29%20August%202024-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ### Backend Technologies
 ![Node.js](https://img.shields.io/badge/Node.js-05%20November%202024-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
@@ -24,15 +24,14 @@ const coteElephant = {
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-12%20March%202024-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-12%20March%202024-181717?style=for-the-badge&logo=github&logoColor=black&color=white)
+![GitHub](https://img.shields.io/badge/GitHub-12%20March%202024-181717?style=for-the-badge&logo=github&logoColor=white&color=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-12%20March%202024-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-12%20March%202024-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-12%20March%202024-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
 ### Resources
-![MDN](https://img.shields.io/badge/MDN-12%20March%202024-white?style=for-the-badge&logo=mozilla&logoColor=black)
+![MDN](https://img.shields.io/badge/MDN-12%20March%202024-white?style=for-the-badge&logo=mozilla&logoColor=white)
 ![Medium](https://img.shields.io/badge/Medium-12%20March%202024-black?style=for-the-badge&logo=medium&logoColor=white)
 ![W3C](https://img.shields.io/badge/W3C-12%20March%202024-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white)
-
 ---
 
 ![Tutorial](https://img.shields.io/badge/-Tutorial-white?logo=book&logoColor=black)--where I learned followed some tutorials somewhere.
