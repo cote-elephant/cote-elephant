@@ -5,8 +5,8 @@
 const coteElephant = {
   name: "Fabio",
   age: "27 and continuing",
-  contact: "https://www.linkedin.com/in/fabio-resnik-68430032a/",
-  onto: ["PHP", "MySQL"]
+  contact: none,
+  onto: ["Javascript", "Vue", "Python"]
 }
 ````
 <!--
