@@ -9,9 +9,7 @@ const coteElephant = {
   onto: ["PHP", "MySQL"]
 }
 ````
-<--!
-
-### Frontend Technologies
+[### Frontend Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-26%20March%202024-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-26%20March%202024-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-29%20August%202024-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -38,4 +36,4 @@ const coteElephant = {
 ![Project](https://img.shields.io/badge/-Project-purple?logo=hammer&logoColor=black)Very serious work here.
 ![Template](https://img.shields.io/badge/-Template-gray?logo=template&logoColor=black)DRY.
 ![Fun](https://img.shields.io/badge/-Fun-orange?logo=smile&logoColor=black)just keeps me alive in the coding world.
--->
+]: #
