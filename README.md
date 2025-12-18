@@ -9,7 +9,8 @@ const coteElephant = {
   onto: ["PHP", "MySQL"]
 }
 ````
----
+<--!
+
 ### Frontend Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-26%20March%202024-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-26%20March%202024-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,11 +30,12 @@ const coteElephant = {
 ![GitHub](https://img.shields.io/badge/GitHub-12%20March%202024-181717?style=for-the-badge&logo=github&logoColor=white&color=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-12%20March%202024-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-12%20March%202024-FCC624?style=for-the-badge&logo=linux&logoColor=white)
----
 
-![Tutorial](https://img.shields.io/badge/-Tutorial-white?logo=book&logoColor=black)--where I learned followed some tutorials somewhere.
-![Notes](https://img.shields.io/badge/-Notes-yellow?logo=note&logoColor=black)--some words about something.
-![Exercitium](https://img.shields.io/badge/-Exercitium-green?logo=exercise&logoColor=black)--purely to deepen the skill and knowledge.
-![Project](https://img.shields.io/badge/-Project-purple?logo=hammer&logoColor=black)--Very serious work here.
-![Template](https://img.shields.io/badge/-Template-gray?logo=template&logoColor=black)--DRY.
-![Fun](https://img.shields.io/badge/-Fun-orange?logo=smile&logoColor=black)--just keeps me alive in the coding world.
+
+![Tutorial](https://img.shields.io/badge/-Tutorial-white?logo=book&logoColor=black)where I learned followed some tutorials somewhere.
+![Notes](https://img.shields.io/badge/-Notes-yellow?logo=note&logoColor=black)some words about something.
+![Exercitium](https://img.shields.io/badge/-Exercitium-green?logo=exercise&logoColor=black)purely to deepen the skill and knowledge.
+![Project](https://img.shields.io/badge/-Project-purple?logo=hammer&logoColor=black)Very serious work here.
+![Template](https://img.shields.io/badge/-Template-gray?logo=template&logoColor=black)DRY.
+![Fun](https://img.shields.io/badge/-Fun-orange?logo=smile&logoColor=black)just keeps me alive in the coding world.
+-->
