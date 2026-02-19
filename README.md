@@ -5,10 +5,11 @@
 const coteElephant = {
   name: "Fabio",
   age: "27 and continuing",
+  hobby: "3D-printing", "anything with amazing mechanical things"
   contact: none,
   onto: ["Python", "Vue"]
 }
-
+````
 <!--
 ### Frontend Technologies
 ![HTML5](...)
@@ -37,4 +38,4 @@ const coteElephant = {
 ![Template](...) DRY.
 ![Fun](...) just keeps me alive in the coding world.
 -->
-````
+
