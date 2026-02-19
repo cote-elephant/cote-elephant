@@ -6,9 +6,9 @@ const coteElephant = {
   name: "Fabio",
   age: "27 and continuing",
   contact: none,
-  onto: ["Javascript", "Vue", "Python"]
+  onto: ["Python", "Vue"]
 }
-````
+
 <!--
 ### Frontend Technologies
 ![HTML5](...)
@@ -37,3 +37,4 @@ const coteElephant = {
 ![Template](...) DRY.
 ![Fun](...) just keeps me alive in the coding world.
 -->
+````
